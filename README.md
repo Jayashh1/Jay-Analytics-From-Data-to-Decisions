@@ -1,3 +1,5 @@
+<img src="https://images.unsplash.com/photo-1550439062-609e1531270e" width="100%" />
+
 # 👋 Hi, I'm Jayash
 
 🚀 **Data Science | Analytics | Business Insights**  
